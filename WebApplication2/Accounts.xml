@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Accounts>
+  <Account username="admin001" password="Qwe!23" FirstName="" LastName="" />
+  <Account username="test0001" password="670FA07BAADDBB616449B091B8ECBAA1" FirstName="wewr" LastName="dfa" />
+  <Account username="test0002" password="B144EF4A51D09EB8878C77BDC4EE8E6E" FirstName="wer" LastName="erqre" />
+  <Account username="test0003" password="670FA07BAADDBB616449B091B8ECBAA1" FirstName="fakj" LastName="wer" />
+  <Account username="admin002" password="670FA07BAADDBB616449B091B8ECBAA1" FirstName="jse" LastName="der" />
+  <Account username="admin005" password="670FA07BAADDBB616449B091B8ECBAA1" FirstName="34" LastName="5423" />
+  <Account username="admin010" password="670FA07BAADDBB616449B091B8ECBAA1" FirstName="jfas" LastName="afhajh" />
+</Accounts>
